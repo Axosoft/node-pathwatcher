@@ -1,6 +1,6 @@
 {
   "main": "./lib/main",
-  "name": "pathwatcher",
+  "name": "@axosoft/pathwatcher",
   "description": "Watch files and directories for changes",
   "version": "8.1.0",
   "licenses": [
